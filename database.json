@@ -8,6 +8,14 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/b390f952bf2b4c196e1655b9d61d2bb2.git:rocker_arm2.groovy": [
+      "https://gist.github.com/b390f952bf2b4c196e1655b9d61d2bb2.git",
+      "rocker_arm2.groovy"
+    ],
+    "https://gist.github.com/9dd69aeed7c12641536f198102af7308.git:javaCadHull.groovy": [
+      "https://gist.github.com/9dd69aeed7c12641536f198102af7308.git",
+      "javaCadHull.groovy"
+    ],
     "https://gist.github.com/dbd42ef1bc3b53d22da81f54df558d6c.git:rocker_arm.groovy": [
       "https://gist.github.com/dbd42ef1bc3b53d22da81f54df558d6c.git",
       "rocker_arm.groovy"
