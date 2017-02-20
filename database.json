@@ -12,6 +12,10 @@
       "https://gist.github.com/b390f952bf2b4c196e1655b9d61d2bb2.git",
       "rocker_arm2.groovy"
     ],
+    "https://gist.github.com/d8db6b5161e7642b67e1e736e52593c5.git:extrudePolygon.groovy": [
+      "https://gist.github.com/d8db6b5161e7642b67e1e736e52593c5.git",
+      "extrudePolygon.groovy"
+    ],
     "https://gist.github.com/9dd69aeed7c12641536f198102af7308.git:javaCadHull.groovy": [
       "https://gist.github.com/9dd69aeed7c12641536f198102af7308.git",
       "javaCadHull.groovy"
