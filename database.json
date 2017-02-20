@@ -7,8 +7,14 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/dbd42ef1bc3b53d22da81f54df558d6c.git:rocker_arm.groovy": [
+      "https://gist.github.com/dbd42ef1bc3b53d22da81f54df558d6c.git",
+      "rocker_arm.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "firstVersion": "0.20.5",
     "skinBranch": "0.20.5",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
   }
