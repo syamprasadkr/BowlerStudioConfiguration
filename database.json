@@ -15,6 +15,14 @@
     "https://gist.github.com/1e7bf29cedfcbf00f67b03163c56d11f.git:capscrew.groovy": [
       "https://gist.github.com/1e7bf29cedfcbf00f67b03163c56d11f.git",
       "capscrew.groovy"
+    ],
+    "https://gist.github.com/70c8c3e3257b8bf390946a22e4478019.git:ModifiedAnimatronics.groovy": [
+      "https://gist.github.com/70c8c3e3257b8bf390946a22e4478019.git",
+      "ModifiedAnimatronics.groovy"
+    ],
+    "https://gist.github.com/9983682293c84eab5b7e96b8c2c86814.git:cube.groovy": [
+      "https://gist.github.com/9983682293c84eab5b7e96b8c2c86814.git",
+      "cube.groovy"
     ]
   },
   "BowlerStudioConfigs": {
